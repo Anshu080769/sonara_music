@@ -1,0 +1,13 @@
+{
+  "name": "sonora-music-search",
+  "version": "1.0.0",
+  "description": "Sonora - Music search, browse by artist/genre/album, HTTP streaming, and smart similar suggestions",
+  "type": "module",
+  "scripts": {
+    "start": "node bin/start.js",
+    "test": "node scripts/smoke-test.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
